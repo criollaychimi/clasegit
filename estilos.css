@@ -1,0 +1,19 @@
+* {padding: 0;margin: 0;}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-style: oblique;
+    font-size: 200%;
+    text-shadow: teal;
+    margin: 10px;
+}
+
+p {
+    background-color: rgb(120, 20, 190);
+    color: black;
+    font-size: 150%;
+}
